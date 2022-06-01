@@ -1,0 +1,97 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+
+
+nav li{
+    display: inline;
+    margin: 20px;
+}
+
+nav ul{
+    background-color: black;
+    margin: 0;
+    list-style-type: none;
+    width: 100%;
+    padding: 20px;
+}
+
+nav{
+    display: black;
+    color: white;
+}
+
+nav a{
+    color: red;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: blue;
+}
+
+.hero-image{
+    background-image: url("../pictures/traintrack_new.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text{
+    color: white;
+    text-align: center;
+}
+
+#main{
+    width: 75%;
+    float: left;
+    height: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+#side{
+    width: 20%;
+    float: right;
+    height: 100%;
+    padding: 20px;
+}
+
+#profile-image{
+    width: 200px;
+    border-radius: 70%;
+}
+
+#profile{
+    text-align: center;
+
+}
+
+.side-articale ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#profile h2{
+    display: inline;
+}
+
+#profile-details{
+    text-align: left;
+}
+
+#view{
+    width: 800px;
+}
+
+#profile{
+    text-align: left;
+}
+
+
+body{
+    background-color: skyblue;
+}
+
